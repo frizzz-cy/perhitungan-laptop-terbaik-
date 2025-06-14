@@ -4,3 +4,5 @@ perhitungan laptop terbaik dan terbanyak dengan hasil akhir menggunakan metode s
 bahasa : php
 css : bootstrap
 
+nb : belum full ya
+
